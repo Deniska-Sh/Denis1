@@ -1,1 +1,1 @@
-Project description
+My project
